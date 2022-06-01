@@ -1,0 +1,11 @@
+.header-container{
+    background: rgb(49, 59, 1);
+    width: 950px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+    border: transparent;
+    color: rgb(170, 245, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
